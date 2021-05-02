@@ -4,9 +4,11 @@ Pygame patched with libraqm for rendering unicode complex indic scripts with lig
 
 
 
-<img src="pygame-1.9.3/examples/aa.png" width="55" height="130"><img src="pygame-1.9.3/examples/ab.png" width="55" height="130">
-<img src="pygame-1.9.3/examples/ba.png" width="55" height="130"><img src="pygame-1.9.3/examples/bb.png" width="55" height="130">
-<img src="pygame-1.9.3/examples/ca.png" width="55" height="130"><img src="pygame-1.9.3/examples/cc.png" width="55" height="130">
+<img src="pygame-1.9.3/examples/aa.png" width="130" height="55"> <img src="pygame-1.9.3/examples/ab.png" width="130" height="55">
+<br>
+<img src="pygame-1.9.3/examples/ba.png" width="130" height="55"> <img src="pygame-1.9.3/examples/bb.png" width="130" height="55">
+<br>
+<img src="pygame-1.9.3/examples/ca.png" width="130" height="55"> <img src="pygame-1.9.3/examples/cc.png" width="130" height="55">
 
 
 ### Requirements
