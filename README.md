@@ -3,11 +3,11 @@
 Pygame patched with libraqm for rendering unicode complex indic scripts with ligatures.
 
 
-![a](pygame-1.9.3/examples/aa.png) ![a](pygame-1.9.3/examples/ab.png){:height="55px" width="130px"}
 
-![a](pygame-1.9.3/examples/ba.png) ![a](pygame-1.9.3/examples/bb.png){:height="55px" width="130px"}
+<img src="pygame-1.9.3/examples/aa.png" width="55" height="130"><img src="pygame-1.9.3/examples/ab.png" width="55" height="130">
+<img src="pygame-1.9.3/examples/ba.png" width="55" height="130"><img src="pygame-1.9.3/examples/bb.png" width="55" height="130">
+<img src="pygame-1.9.3/examples/ca.png" width="55" height="130"><img src="pygame-1.9.3/examples/cc.png" width="55" height="130">
 
-![a](pygame-1.9.3/examples/ca.png) ![a](pygame-1.9.3/examples/cc.png){:height="55px" width="130px"}
 
 ### Requirements
 
